@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamim</h1>
+<h1 align="center">Hi there 👋, I'm Shamim</h1>
 <h4 align="center">An aspiring Software Developer.</h4>
 
 <p>As an aspiring software developer, I have a deep passion for technology and a strong desire to create innovative solutions. I am dedicated to honing my programming skills and staying updated with industry trends. My determination and adaptability enable me to tackle complex challenges creatively and efficiently, building a successful career in software development. As a beginner breaking into the industry, I embrace a growth mindset and approach challenges with curiosity and persistence. I am committed to learning, evolving, and making a mark in this dynamic field.</p>
