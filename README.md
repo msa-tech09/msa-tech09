@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shamim</h1>
-<h3 align="center">An aspiring Software Developer and QA Tester.</h3>
+<h3 align="center">An aspiring Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msa-tech09&label=Profile%20views&color=0e75b6&style=flat" alt="msa-tech09" /> </p>
 
